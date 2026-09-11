@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours technique en français sur l AIR, le pipeline du compilateur et la génération de contraintes STARK est disponible dans [`docs/fr/`](docs/fr/).
+
 # AirScript
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0xMiden/air-script/blob/main/LICENSE)
